@@ -10,7 +10,7 @@ var swaggerDefinition = {
     version: '1.0.0',
     description: 'Demonstrating how to describe a RESTful API with Swagger',
   },
-  host: 'tcomdb.tivlab.raleigh.ibm.com',
+  host: 'HOSTNAME',
   scheme: 'https',
   basePath: '/pkg',
   securityDefinitions:{"basic":{"type":"basic"}},
